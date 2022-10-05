@@ -27,7 +27,7 @@ console.print("[02] Darkwolfrabin/DW-07",style=" bold white")
 console.print("[03] Hamii-king-06/Random",style=" bold white")
 console.print("[04] RED-DEMON-ANNOS/7SINS",style=" bold white")
 console.print("[05] TEAM-KRS/BYPASS-JUTT",style=" bold white")
-zeyad = input("CHOOSE")
+zeyad = input("CHOOSE : ")
 if zeyad in ["1","01"]:
 	os.system('rm -rf DUMP-FILE && git clone https://github.com/JUTTBRAND/DUMP-FILE.git && cd DUMP-FILE && python JXB.py')
 if zeyad in ["2","02"]:
