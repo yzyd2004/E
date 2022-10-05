@@ -6,6 +6,7 @@ for letter in sex:
 	time.sleep(0.04)
 	sys.stdout.write(letter)
 	sys.stdout.flush()
+time.sleep(1)
 os.system('clear')
 os.system('xdg-open https://www.facebook.com/profile.php?id=100000593464379')
 try:
