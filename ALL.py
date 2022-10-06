@@ -9,7 +9,7 @@ for letter in sex:
 	sys.stdout.flush()
 time.sleep(1)
 os.system('clear')
-os.system('xdg-open https://www.facebook.com/profile.php?id=100000593464379')
+os.system('xdg-open https://https://www.facebook.com/profile.php?id=100080679964073
 try:
 	import rich
 except ImportError:
@@ -21,7 +21,7 @@ except ImportError:
 
 from rich import print
 from rich.panel import Panel
-print(Panel("Hello, [red]World! \n ALL TOOLS IN ONE \n BY Zeyad Alabany \n TELE : sxtz0 \n facebook : https://www.facebook.com/profile.php?id=100000593464379"))
+print(Panel("Hello, [red]World! \n ALL TOOLS IN ONE \n BY Zeyad Alabany \n TELE : sxtz0 \n facebook : https://www.facebook.com/profile.php?id=100080679964073"))
 from rich.console import Console
 console = Console()
 console.print("[01] JUTTBRAND FILE CLONE",style=" bold white")
